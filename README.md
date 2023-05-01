@@ -1,13 +1,1 @@
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+Some code forked from Leon Noel that I was tasked with fixing.  It was a '21 Savage' fan site with a user login and a message board; CRUD stuff.  I added 'thumbs down' functionality to the code as well as a trash can to delete messages.  Nothing to spectacular.  It works, yay.
